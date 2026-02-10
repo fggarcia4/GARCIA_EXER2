@@ -1,0 +1,2 @@
+# GARCIA_EXER2
+CMSC 100 exer 2
